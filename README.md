@@ -21,7 +21,8 @@ This task involves the trajectory and mission design for a two-stage launch vehi
 - Equations of motion derived under gravitational, aerodynamic, and thrust influences.
 - Optimal control problem formulation using Pontryagin’s principle.
 - Monte Carlo simulation for uncertainty analysis (atmospheric density, thrust variations, wind disturbances, initial launch deviations).
-<img src="FBD.png" alt="Free Body Diagram" width="400"/>
+  
+     <img src="FBD.png" alt="Free Body Diagram" width="600"/>
 
 **Included Files:**
 - `Mission Design Engineer Tasks.pdf` → Assignment brief and requirements.  
@@ -47,9 +48,14 @@ Planned additions to this repo include other technical domains, starting with:
 ---
 
 ## 📑 References
-Key references include:
-- Curtis, *Orbital Mechanics for Engineering Students*  
-- Betts, *Optimal Control of Launch Vehicles*  
-- Berman & Boulanger, *Staging Optimization for Space Launch Vehicles*  
+Key references used in this work include:
+
+- Curtis, H. D. (2005). *Orbital Mechanics for Engineering Students*. McGraw-Hill Education.  
+- Betts, J. T. (2009). *Optimal Control of Launch Vehicles: Theory and Applications*. Springer.  
+- Berman, D., & Boulanger, S. (2002). A Generalized Staging Optimization Program for Space Launch Vehicles. *Journal of Spacecraft and Rockets.*
+- Balesdent, M., (2012). A survey of multidisciplinary design optimization methods in launch vehicle design. *Structural and Multidisciplinary Optimization.*
+- Suresh, B. N., & K. Suresh (2017). *Integrated Design for Space Transportation System*. Springer.* 
+- Edberg, D. (2007). *Design of Rockets: Principles and Applications*. Wiley.*  
+
 
 (Full list provided inside solution document.)
