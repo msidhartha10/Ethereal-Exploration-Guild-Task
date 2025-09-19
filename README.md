@@ -22,11 +22,13 @@ This task involves the trajectory and mission design for a two-stage launch vehi
 - Optimal control problem formulation using Pontryagin’s principle.
 - Monte Carlo simulation for uncertainty analysis (atmospheric density, thrust variations, wind disturbances, initial launch deviations).
 
+![Launch Vehicle Diagram](ethereal_diagram.png)
+
+
 **Included Files:**
 - `Mission Design Engineer Tasks.pdf` → Assignment brief and requirements.  
 - `Sidhartha_EtherealX.pdf` → Full solution document with derivations, results, and discussion.  
 - `code/` → Scripts and source code for calculations/simulations.  
-- `plots/` → Generated plots and visualizations.  
 - `Direct_Ascent_Two_Stage.xlsx` → Supporting Excel calculations.  
 
 ---
