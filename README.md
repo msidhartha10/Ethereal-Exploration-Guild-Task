@@ -22,7 +22,7 @@ This task involves the trajectory and mission design for a two-stage launch vehi
 - Optimal control problem formulation using Pontryagin’s principle.
 - Monte Carlo simulation for uncertainty analysis (atmospheric density, thrust variations, wind disturbances, initial launch deviations).
   
-     <img src="FBD.png" alt="Free Body Diagram" width="600"/>
+     <img src="MISSION DESIGN/FBD.png" alt="Free Body Diagram" width="600"/>
 
 **Included Files:**
 - `Mission Design Engineer Tasks.pdf` → Assignment brief and requirements.  
